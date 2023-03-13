@@ -23,5 +23,8 @@
 - Taveira, J. C. et al. (2010) "On Inter-Application Reuse of Exception Handling Aspects. In Proceedings of ESCOT'2010. 
     [https://github.com/juliotaveira/eh-meter/blob/main/downloads/paper-final.pdf]
 
+### Original Website
+
+https://www.cin.ufpe.br/~fjclf/eh-meter/
 
 
