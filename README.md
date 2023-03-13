@@ -13,9 +13,9 @@
 
 ### Downloads
 - EH-Meter - Jar file (main download)
-- EH-Meter - Eclipse Project
+- [EH-Meter - Eclipse Project] [https://github.com/juliotaveira/eh-meter/blob/main/downloads/EH-Meter.zip]
 
 ### Publications
 - Taveira, J. C. et al. (2009) "Assessing Intra-Application Exception Handling Reuse with Aspects". In Proceedings of SBES'2009.
 - Taveira, J. C. et al. (2009) "A Concern-Specific Metrics Collection Tool". In Proceedings of ACoM'2009.
-- TAVEIRA, J. C. et al. (2009) "On Inter-Application Reuse of Exception Handling Aspects. In Proceedings of ESCOT'2010. 
+- Taveira, J. C. et al. (2010) "On Inter-Application Reuse of Exception Handling Aspects. In Proceedings of ESCOT'2010. 
