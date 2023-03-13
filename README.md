@@ -12,10 +12,16 @@
 (2)Informatics Center, Federal University of Pernambuco, Brazil
 
 ### Downloads
-- EH-Meter - Jar file (main download)
-- [EH-Meter - Eclipse Project] [https://github.com/juliotaveira/eh-meter/blob/main/downloads/EH-Meter.zip]
+- EH-Meter - Jar file (main download) [https://github.com/juliotaveira/eh-meter/blob/main/downloads/ehmeter-0.4.1.jar]
+- EH-Meter - Eclipse Project [https://github.com/juliotaveira/eh-meter/blob/main/downloads/EH-Meter.zip]
 
 ### Publications
 - Taveira, J. C. et al. (2009) "Assessing Intra-Application Exception Handling Reuse with Aspects". In Proceedings of SBES'2009.
+    [https://github.com/juliotaveira/eh-meter/blob/main/downloads/taveira_sbes_2009_pt.pdf]
 - Taveira, J. C. et al. (2009) "A Concern-Specific Metrics Collection Tool". In Proceedings of ACoM'2009.
+    [https://github.com/juliotaveira/eh-meter/blob/main/downloads/paperACoM_final.pdf]
 - Taveira, J. C. et al. (2010) "On Inter-Application Reuse of Exception Handling Aspects. In Proceedings of ESCOT'2010. 
+    [https://github.com/juliotaveira/eh-meter/blob/main/downloads/paper-final.pdf]
+
+
+
